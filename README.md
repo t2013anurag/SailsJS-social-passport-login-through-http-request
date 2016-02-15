@@ -30,7 +30,7 @@ a [Sails](http://sailsjs.org) application
    - Name ```sails-social-auth-example```
    - URL ```http://localhost:1337```
    - Callback URL ```http://localhost:1337/auth/google/callback```
-1. In the `config/express.js` replace `YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` with the generated keys
+1. In the `config/middleware.js` replace `YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` with the generated keys
 
 
 ### Facebook
@@ -39,7 +39,7 @@ a [Sails](http://sailsjs.org) application
    - Name ```sails-social-auth-example```
    - URL ```http://localhost:1337```
    - Callback URL ```http://localhost:1337/auth/facebook/callback```
-1. In the `config/express.js` replace `YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` with the generated keys
+1. In the `config/middleware.js` replace `YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` with the generated keys
 
 
 
