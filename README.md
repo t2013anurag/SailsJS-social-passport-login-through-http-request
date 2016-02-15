@@ -1,5 +1,7 @@
-# Social
 [![Build Status](https://travis-ci.org/t2013anurag/SailsJS-social-passport-login-through-http-request.svg?branch=master)](https://travis-ci.org/t2013anurag/SailsJS-social-passport-login-through-http-request)
+
+
+
 a [Sails](http://sailsjs.org) application
 
 # Sails.js Social Auth example using HTTP Get Request to your server.
