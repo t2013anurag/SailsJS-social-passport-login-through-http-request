@@ -1,0 +1,20 @@
+language: node_js
+
+node_js:
+  - "0.10"
+  - "0.12"
+  - "4"
+  - "5.0.0"
+
+sudo: false
+
+script:
+  - "npm test"
+
+
+# whitelisted branches
+branches:
+  only:
+    - master
+    - stable
+    - beta
