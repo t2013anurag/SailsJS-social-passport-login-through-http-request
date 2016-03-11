@@ -15,7 +15,7 @@ a [Sails](http://sailsjs.org) application
 ## Setup
 
 1. Clone the repository `git clone https://github.com/t2013anurag/SailsJS-social-passport-login-through-http-request.git`
-1. Navigate into the directory `cd sails-social-auth-example`
+1. Navigate into the directory `cd SailsJS-social-passport-login-through-http-request`
 1. Run `npm install`  to install the dependencies
 1. Set up your MongoDB settings `config/connections.js`
 1. Start your MongoDB from the command line with `sudo mongod`
